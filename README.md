@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I'm Marko Shamey 👋
 
-<!--
-**markoshamey7/markoshamey7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-Year Artificial Intelligence Student at Sohag University
 
-Here are some ideas to get you started:
+💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning C++, SQL, and Python.
+- 🧠 Interested in Artificial Intelligence, Data Science, and Software Development.
+- 🚀 Improving my programming and problem-solving skills.
+- 📚 Always learning and building my knowledge step by step.
+
+🛠️ Languages & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,mysql,git,github,vscode" alt="Programming Skills"/>
+</p>🎯 Current Goals
+
+- Strengthen my C++ programming skills.
+- Learn SQL and database design.
+- Improve my Python skills.
+- Build my first programming projects.
+
+📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=markoshamey7&show_icons=true&theme=tokyonig…
+- Build my first programming projects.
+
+
+
